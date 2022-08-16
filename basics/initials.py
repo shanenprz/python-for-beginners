@@ -1,5 +1,5 @@
 alpha = {}
-alpha['S'] = " SS    S   S  S   S     S   S  S   S      SSS    "
+alpha['S'] = " SS  S  S        S S       S S       S  S SSS   "
 alpha['P'] = "BBBB   B   B  B   B  BBBB   B   B  B   B  BBBB   "
 
 for i in range(7):
